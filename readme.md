@@ -1,0 +1,1 @@
+Esta practica apunta al body, un elemento para añadirle/quitar la clase darkmode
